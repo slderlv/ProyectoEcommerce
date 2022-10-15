@@ -1,4 +1,4 @@
-package Logic;
+package JFrame;
 
 import java.awt.Color;
 import java.awt.Cursor;
